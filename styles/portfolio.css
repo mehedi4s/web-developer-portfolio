@@ -120,3 +120,13 @@ main{
 .about-info{
     text-align: center;
 }
+
+#what-i-do-description{
+    padding: 30px 130px;
+}
+
+.skills-container{
+    display: flex;
+}
+
+
